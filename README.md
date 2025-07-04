@@ -3,7 +3,7 @@
 
 This repository features an interactive Power BI dashboard that analyzes sales data from a fictional Bike Shop. The goal is to enable decision-makers to easily understand performance metrics, customer behavior, and product trends using a clean, visual interface.
 
-![Bike Shop Dashboard Screenshot](./Screenshot%202025-05-14%20180245.png)
+![Bike Shop Dashboard Screenshot](./Bike%20shop%20Analysis%20Dashboard.png)
 
 ## 📊 Project Overview
 
@@ -55,24 +55,14 @@ The dataset used includes the following fields:
 
 ## 🚀 How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Akash-22-05/bike-shop-dashboard.git
-   ```
+1.Open the `.pbix` file using Power BI Desktop.
 
-2. Open the `.pbix` file using Power BI Desktop.
-
-3. Interact with the slicers and visualizations to explore data.
-
-## 🖼 Screenshot
-
-![Dashboard Overview](./Screenshot%202025-05-14%20180245.png)
+2. Interact with the slicers and visualizations to explore data.
 
 ## 👤 Author
 
 **Akash Chowdhary**  
 🔗 [GitHub Profile](https://github.com/Akash-22-05)
+🔗 [Linkedin Profile](https://www.linkedin.com/in/achowdhary/)
 
-## 🙏 Acknowledgments
 
-Thanks to the data visualization community for inspiring this dashboard structure and styling.
